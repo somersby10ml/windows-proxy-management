@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "windows-proxy-management", "windows-proxy-management\windows-proxy-management.csproj", "{BD61A357-95CE-4019-B0E1-0CC9462BB731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxy-service", "proxy-service\proxy-service.csproj", "{67CC6CF4-9775-40E1-AA19-7033C9393866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD61A357-95CE-4019-B0E1-0CC9462BB731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD61A357-95CE-4019-B0E1-0CC9462BB731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD61A357-95CE-4019-B0E1-0CC9462BB731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD61A357-95CE-4019-B0E1-0CC9462BB731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CC6CF4-9775-40E1-AA19-7033C9393866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CC6CF4-9775-40E1-AA19-7033C9393866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CC6CF4-9775-40E1-AA19-7033C9393866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CC6CF4-9775-40E1-AA19-7033C9393866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271D3D8B-B1FF-4749-B29C-4A9458C32D9B}
+	EndGlobalSection
+EndGlobal
